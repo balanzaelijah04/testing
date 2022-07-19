@@ -1,0 +1,61 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS G:\sample> & "C:/Users/Renard Jaen/AppData/Local/Programs/Python/Python310/python.exe" g:/sample/key.py
+'w'
+'d'
+Key.backspace
+Key.backspace
+Key.backspace
+Key.backspace
+Traceback (most recent call last):
+  File "g:\sample\key.py", line 9, in <module>
+PS G:\sample> & "C:/Users/Renard Jaen/AppData/Local/Programs/Python/Python310/python.exe" g:/sample/key.py
+'d'
+'a'
+Traceback (most recent call last):
+    while True:
+KeyboardInterrupt
+PS G:\sample> & "C:/Users/Renard Jaen/AppData/Local/Programs/Python/Python310/python.exe" g:/sample/key.py
+Key.tab
+Key.alt_l
+Key.tab
+'s'
+Key.alt_l
+Key.tab
+'m'
+'i'
+'r'
+'e'
+'i'
+'l'
+'l'
+'e'
+'l'
+'e'
+'i'
+'d'
+'e'
+'n'
+'1'
+'8'
+'2'
+'9'
+'c'
+'a'
+'n'
+'c'
+'e'
+'r'
+'2'
+'0'
+'0'
+'2'
+Key.enter
+Traceback (most recent call last):
+  File "g:\sample\key.py", line 9, in <module>
+    while True:
+KeyboardInterrupt
+PS G:\sample> 

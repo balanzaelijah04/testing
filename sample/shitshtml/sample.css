@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.header{
+    position: relative;
+    background-color: red;
+    width: 100%;
+    height: 20px;
+}
+.header .i-header{
+
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container{
+
+  margin: 9px auto;
+  width: 500px;
+  height: 220px;
+  outline: dashed 1px black;
+  /* Setup */
+  position: relative;
+    
+}
+.container .box{
+    float: left;
+    margin: 5px 0px 5px 15px;
+    left: 15px;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    outline: dashed 1px black;
+    border-radius: 20% ;
+}
+
+
+
